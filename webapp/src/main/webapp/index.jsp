@@ -31,7 +31,7 @@
     <p>Sudah memiliki akun? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Terimakasih, Selamat menikmati! </h1>
+   <h1> Kamsahamida, Selamat menikmati! </h1>
 
   
 </form>
