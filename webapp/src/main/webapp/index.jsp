@@ -31,7 +31,7 @@
     <p>Sudah memiliki akun? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Kamsahamida, Selamat menikmati! kaya martabak telor</h1>
+   <h1> Kamsahamida, Selamat menikmati! kaya martabak telor pake kornet</h1>
 
   
 </form>
