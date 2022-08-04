@@ -31,7 +31,7 @@
     <p>Sudah memiliki akun? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Kamsahamida, Selamat menikmati! kaya martabak telor pake kornet dan keju dan bawang goreng kering</h1>
+   <h1> The Lord is my shepherd, I have everything that I need, I'm lack of of nothing, I have more than enough</h1>
 
   
 </form>
